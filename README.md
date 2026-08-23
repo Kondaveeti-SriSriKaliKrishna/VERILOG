@@ -12,7 +12,7 @@ Verilog/
 └── Algorithmic & Mathematical Programs/
 ```
 
-## 💡 Coding Approach
+##  Coding Approach
 
 The main focus of this repository is to implement digital designs and problems using different Verilog coding styles wherever applicable.
 
@@ -20,7 +20,7 @@ The same functionality may be explored through different approaches to understan
 
 The designs are organized to make the code easy to study, compare, simulate, and understand.
 
-## 🧪 Testbench
+##  Testbench
 
 Each Verilog design is accompanied by a dedicated **testbench** for simulation and functional verification.
 
@@ -32,7 +32,7 @@ The testbenches are used to:
 * Identify design errors
 * Validate the RTL implementation through simulation
 
-## 🛠️ Verilog
+##  Verilog
 
 The repository focuses on:
 
@@ -45,6 +45,6 @@ The repository focuses on:
 * Algorithmic problem solving
 * Hardware-oriented implementation
 
-## 🎯 Purpose
+##  Purpose
 
 This repository serves as a practical collection for strengthening Verilog fundamentals and developing a deeper understanding of RTL design through implementation, simulation, verification, and experimentation.
