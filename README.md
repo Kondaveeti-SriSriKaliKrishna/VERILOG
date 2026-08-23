@@ -16,17 +16,17 @@ different abstraction levels while maintaining the same intended functionality.
 
 ## 🔹 Focus Areas
 
-- ⚙️ Boolean and arithmetic logic
-- 🔀 Data selection and routing
-- ⚖️ Comparison logic
-- 🔢 Encoding and decoding
-- ➕ Adders and subtractors
-- 🎛️ Multiplexing
-- 🧩 Combinational RTL design
+-  Boolean and arithmetic logic
+-  Data selection and routing
+-  Comparison logic
+-  Encoding and decoding
+-  Adders and subtractors
+-  Multiplexing
+-  Combinational RTL design
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 The goal is to build a strong foundation in combinational logic and become
 comfortable writing, analyzing, and verifying Verilog RTL using different
