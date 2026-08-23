@@ -1,23 +1,33 @@
 # Combinational Modules
 
-This section contains combinational logic designs implemented in Verilog.
+> A collection of combinational digital designs implemented in Verilog.
 
-## ðŸ’¡ Coding Approach
+---
 
-The main objective is to implement combinational modules using different Verilog coding styles wherever applicable.
+## 💡 Coding Approach
 
-This makes it easier to compare how the same logic can be described at different abstraction levels while maintaining the same intended functionality.
+The main objective is to implement combinational modules using different
+Verilog coding styles wherever applicable.
 
-## ðŸ”¹ Focus Areas
+This makes it easier to compare how the same logic can be described at
+different abstraction levels while maintaining the same intended functionality.
 
-- Boolean and arithmetic logic
-- Data selection and routing
-- Comparison logic
-- Encoding and decoding
-- Adders and subtractors
-- Multiplexing
-- Combinational RTL design
+---
 
-## ðŸŽ¯ Purpose
+## 🔹 Focus Areas
 
-The goal is to build a strong foundation in combinational logic and become comfortable writing, analyzing, and verifying Verilog RTL using different coding approaches.
+- ⚙️ Boolean and arithmetic logic
+- 🔀 Data selection and routing
+- ⚖️ Comparison logic
+- 🔢 Encoding and decoding
+- ➕ Adders and subtractors
+- 🎛️ Multiplexing
+- 🧩 Combinational RTL design
+
+---
+
+## 🎯 Purpose
+
+The goal is to build a strong foundation in combinational logic and become
+comfortable writing, analyzing, and verifying Verilog RTL using different
+coding approaches.
