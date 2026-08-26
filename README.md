@@ -1,6 +1,12 @@
 # Verilog
 
-A structured collection of Verilog designs, RTL implementations, testbenches, and programming-oriented hardware problems.
+A structured collection of Verilog designs, RTL implementations, testbenches, and algorithmic hardware problems.
+
+## 📌 Overview
+
+This repository focuses on building practical Verilog skills through digital design, RTL development, simulation, and functional verification.
+
+The designs are organized into different sections to make the code easy to study, compare, simulate, and understand.
 
 ## 📂 Repository Structure
 
@@ -12,39 +18,41 @@ Verilog/
 └── Algorithmic & Mathematical Programs/
 ```
 
-##  Coding Approach
+## 💡 Coding Styles
 
-The main focus of this repository is to implement digital designs and problems using different Verilog coding styles wherever applicable.
+Different Verilog coding styles are explored throughout the repository wherever applicable.
 
-The same functionality may be explored through different approaches to understand how each coding style represents the intended hardware.
+The same functionality may be implemented using different approaches to understand how Verilog describes hardware at different abstraction levels.
 
-The designs are organized to make the code easy to study, compare, simulate, and understand.
+The focus is on writing clean, modular, readable, and simulation-friendly RTL.
 
-##  Testbench
+## 🧪 Verification
 
-Each Verilog design is accompanied by a dedicated **testbench** for simulation and functional verification.
+Every design includes a dedicated **testbench** for functional verification.
 
-The testbenches are used to:
+Testbenches are used to:
 
-* Apply different input combinations
+* Apply different input conditions
+* Generate clock and reset signals where required
 * Verify expected outputs
-* Check functional behavior
-* Identify design errors
-* Validate the RTL implementation through simulation
+* Check different functional cases
+* Compare expected and actual results
+* Validate designs through simulation
 
-##  Verilog
+## 🔹 Repository Areas
 
-The repository focuses on:
+### Combinational Modules
 
-* Digital logic design
-* RTL design
-* Different Verilog coding styles
-* Modular design
-* Testbench development
-* Simulation and verification
-* Algorithmic problem solving
-* Hardware-oriented implementation
+Focuses on logic whose outputs depend directly on the current inputs.
 
-##  Purpose
+### Sequential Modules
 
-This repository serves as a practical collection for strengthening Verilog fundamentals and developing a deeper understanding of RTL design through implementation, simulation, verification, and experimentation.
+Focuses on clock-driven designs involving storage, state transitions, and reset behavior.
+
+### Algorithmic & Mathematical Programs
+
+Focuses on implementing programming-oriented and mathematical concepts using Verilog and exploring how algorithmic logic can be represented as hardware.
+
+## 🎯 Objective
+
+To develop strong practical skills in Verilog RTL design, different coding styles, testbench development, simulation, and functional verification through continuous implementation and experimentation.
