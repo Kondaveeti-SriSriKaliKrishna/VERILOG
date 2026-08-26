@@ -1,33 +1,45 @@
 # Combinational Modules
 
-> A collection of combinational digital designs implemented in Verilog.
+A collection of combinational digital designs implemented in Verilog, focusing on logic operations, data processing, and RTL design without clock-dependent behavior.
 
----
+## 📌 Overview
 
-## 💡 Coding Approach
+This section focuses on understanding digital systems where the output depends directly on the current inputs.
 
-The main objective is to implement combinational modules using different
-Verilog coding styles wherever applicable.
+The designs are implemented using different Verilog coding approaches wherever applicable, allowing the same functionality to be studied and compared from different perspectives.
 
-This makes it easier to compare how the same logic can be described at
-different abstraction levels while maintaining the same intended functionality.
+## 💡 Coding Styles
 
----
+Different Verilog coding styles are explored to understand how combinational hardware can be described at different abstraction levels.
 
-## 🔹 Focus Areas
+The implementations focus on writing clear, modular, and simulation-friendly RTL.
 
--  Boolean and arithmetic logic
--  Data selection and routing
--  Comparison logic
--  Encoding and decoding
--  Adders and subtractors
--  Multiplexing
--  Combinational RTL design
+## 🧪 Verification
 
----
+Every design includes a dedicated **testbench** for functional verification.
 
-##  Purpose
+Testbenches are used to:
 
-The goal is to build a strong foundation in combinational logic and become
-comfortable writing, analyzing, and verifying Verilog RTL using different
-coding approaches.
+* Apply different input combinations
+* Verify expected outputs
+* Check all relevant logic conditions
+* Compare expected and actual results
+* Validate functionality through simulation
+
+## 🔹 Topics
+
+* Basic Logic Gates
+* Boolean Logic
+* Multiplexers
+* Demultiplexers
+* Encoders
+* Decoders
+* Comparators
+* Adders
+* Subtractors
+* Arithmetic Circuits
+* Combinational RTL
+
+## 🎯 Objective
+
+To build strong practical skills in combinational logic, Verilog RTL coding, simulation, and functional verification while gaining experience with different coding approaches.
